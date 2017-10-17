@@ -1,0 +1,36 @@
+body {
+  font-family: Tahoma, Arial, Helvetica, sans-serif;
+  font-size: 12px;
+}
+#nav-list {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+#nav-list a {
+  color: #000080;
+  background-color: #C7C7C7;
+  font-size: 1.2em;
+}
+#nav-list a:hover {
+  background: #B0C4DE;
+}
+h2 {
+  margin-top: -5px;
+}
+.menu-title {
+  font-size: 1.8em;
+}
+.menu-section {
+  background-color: #CCCCCC;
+}
+.menu-section-title {
+  padding-top: 10px;
+  font-size: 1.4em;
+  text-align: center;
+  font-weight: bold;
+}
+.menu-section-text {
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-left: 10px;
+}
